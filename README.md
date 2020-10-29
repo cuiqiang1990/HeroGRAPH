@@ -1,7 +1,7 @@
 # HeroGRAPH
-Code for my ORSUM, ACM RecSys 2020, HeroGRAPH: A Heterogeneous Graph Framework for Multi-Target Cross-Domain Recommendation
+Code for my ORSUM @ RecSys 2020, HeroGRAPH: A Heterogeneous Graph Framework for Multi-Target Cross-Domain Recommendation
 
-Paper: https://orsum.inesctec.pt/orsum2020/program.php
+Paper, workshop proceedings are now online: http://ceur-ws.org/Vol-2715/
 
 The code is still under approval as it is the company property. 
 
